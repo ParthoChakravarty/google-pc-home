@@ -2,4 +2,4 @@
 
 Google homepage clone created with HTML and CSS.
 
-[Live Demo](https://michalosman.github.io/google-homepage/) :point_left:
+[Live Demo](https://parthochakravarty.github.io/google-pc-home/) :point_left:
